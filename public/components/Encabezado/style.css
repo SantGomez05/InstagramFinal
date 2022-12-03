@@ -1,0 +1,132 @@
+.rectanguloup{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    background: #fff;
+    border-bottom: 1px solid #dfdfdf;
+    display:flex;
+    padding: 5px 0;
+}
+
+.logoig{
+    width: 90px;
+    top: 20px;
+    left: 400px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.insta-search{
+    position: absolute;
+    width: 182px;
+    top: 11px;
+    left: 600px;
+}
+
+/*iconos*/
+
+.explore{
+    width: 20px;
+    top: 19px;
+    left: 1030px;
+    position: absolute;
+}
+
+.Home{
+    width: 30px;
+    top: 15px;
+    left: 910px;
+    position: absolute;
+}
+
+.Like{
+    width: 20px;
+    top: 19px;
+    left: 1065px;
+    position: absolute;
+}
+
+.Mensaje{
+    width: 20px;
+    top: 20px;
+    left: 955px;
+    position: absolute;
+}
+
+.Newpost{
+    width: 20px;
+    top: 20px;
+    left: 993px;
+    position: absolute;
+}
+
+.User{
+    width: 25px;
+    top: 17px;
+    left: 1100px;
+    position: absolute;
+}
+
+.history1{
+    width: 62px;
+    top: 93px;
+    left: 775px;
+    position: absolute;  
+}
+
+.history2{
+    width: 62px;
+    top: 93px;
+    left: 685px;
+    position: absolute;  
+}
+
+.history3{
+    width: 62px;
+    top: 93px;
+    left: 595px;
+    position: absolute;  
+}
+
+.history4{
+    width: 62px;
+    top: 93px;
+    left: 505px;
+    position: absolute;  
+}
+
+.user-history1{
+    font-family: Helvetica;
+    font-size: 13px;
+    width: -20px;
+    top: 162px;
+    left: 777px;
+    position: absolute;  
+}
+
+.user-history2{
+    font-family: Helvetica;
+    font-size: 13px;
+    width: -20px;
+    top: 162px;
+    left: 688px;
+    position: absolute;  
+}
+
+.user-history3{
+    font-family: Helvetica;
+    font-size: 13px;
+    width: -30px;
+    top: 162px;
+    left: 604px;
+    position: absolute;  
+}
+
+.user-history4{
+    font-family: Helvetica;
+    font-size: 13px;
+    width: -30px;
+    top: 162px;
+    left: 517px;
+    position: absolute;  
+}

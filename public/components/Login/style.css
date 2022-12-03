@@ -1,0 +1,63 @@
+.contenedor{
+    background-color: white;
+    width: 350px;
+    height: 400px;
+    position: absolute;
+    top: 50px;
+    left: 600px;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+}
+
+.logo{
+    position: absolute;
+    width: 250px;
+    top:5%;
+    left: 41px;
+}
+
+.contenedor2 {
+    background-color: white;
+    width: 350px;
+    height: 65px;
+    position: absolute;
+    top: 465px;
+    right: 584px;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+}
+
+.info {
+    position: absolute;
+    font-family: Helvetica;
+    font-size: 10.5pt;
+    font-weight: normal;
+    top: 13px;
+    left: 65px;
+    color: rgb(55, 55, 55);
+}
+
+.registrate {
+    position: absolute;
+    font-family: Helvetica;
+    font-size: 10.5pt;
+    font-weight: bold;
+    top: 22.5px;
+    left: 220px;
+    text-decoration: none;
+    color: #3e95ef;
+}
+
+.descarga {
+    position: absolute;
+    left: 122px;
+    top: 73px;
+    font-family: Helvetica;
+    font-size: 10.5pt;
+    font-weight: 100;
+}
+
+.descargaApp {
+    position: absolute;
+    width: 280px;
+    top: 115px;
+    left: 35px;
+}

@@ -1,0 +1,45 @@
+.cuadradoPrincipal {
+    position: relative;
+    margin-left: 990px;
+    width: 365px;
+    height: 35px;
+    top: 150px;
+    margin-bottom: 10px;
+    background: rgba(248, 44, 238, 0);
+    display: flex;
+}
+
+.userimg {
+    position: absolute;
+    width: 25px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.user {
+    font-family: Poppins;
+    font-size: 9pt;
+    margin-left: 55px;
+    position: absolute;
+    margin-top: 2px;
+    color: rgb(63, 63, 63);
+}
+
+.cambio {
+    font-family: Poppins;
+    font-size: 15px;
+    position: absolute;
+    color: rgb(65, 170, 255);
+    margin-top: 10px;
+    right: 20px;
+}
+
+.infouser {
+    font-family: Poppins;
+    font-size: 10px;
+    font-weight: 500px;
+    position: absolute;
+    color: rgb(124, 124, 124);
+    margin-left: 55px;
+    margin-top: 20px;
+}

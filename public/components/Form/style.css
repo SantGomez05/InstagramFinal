@@ -1,0 +1,44 @@
+.correo {
+    position: absolute;
+    width: 258px;
+    height: 32px;
+    outline: none;
+    padding-left: 8px;
+    padding-bottom: 3px;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    left: 650px;
+    top: 25%;
+    background-color: #FAFAFA;
+    border-radius: 3.5px;
+    font-size: 12px;
+}
+
+.contraseña {
+    position: absolute;
+    width: 258px;
+    height: 31px;
+    outline: none;
+    padding-left: 8px;
+    padding-bottom: 3px;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    left: 650px;
+    top: 240px;
+    background-color: #FAFAFA;
+    border-radius: 3.5px;
+    font-size: 12px;
+}
+
+.iniciar {
+    position: absolute;
+    width: 269px;
+    height: 30px;
+    left: 650px;
+    top: 290px;
+    border: none;
+    border-radius: 3.5px;
+    cursor: pointer;
+    background-color: #3e95ef;
+    color: white;
+    font-weight: 500;
+    font-size: 11pt;
+}

@@ -1,0 +1,83 @@
+.contenedor{
+    background-color: white;
+    width: 350px;
+    height: 400px;
+    position: absolute;
+    top: 50px;
+    left: 600px;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+}
+
+.logo{
+    position: absolute;
+    width: 250px;
+    top:5%;
+    left: 41px;
+}
+
+.signin-facebook{
+    position: absolute;
+    width: 250px;
+    top: 75%;
+    left: 57px;
+}
+
+.forget{
+    position: absolute;
+    font-family: Helvetica;
+    font-size: 10px;
+    margin-top: 105%;
+    margin-left: 32%;
+    color: rgb(59, 59, 59);
+}
+
+.contenedor2{
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 350px;
+    height: 65px;
+    position: absolute;
+    top: 465px;
+    right: 584px;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+}
+
+.info{
+    position: absolute;
+    font-family: Helvetica;
+    font-size: 10.5pt;
+    font-weight: normal;
+    top: 13px;
+    left: 65px;
+    color: rgb(55, 55, 55);
+}
+
+.publicidad{
+    position:absolute;
+    width: 450px;
+    top:38px;
+    left:70px;
+}
+
+.registrate{
+    position: absolute;
+    font-family: Helvetica;
+    font-size: 10.5pt;
+    font-weight: bold;
+    top: 22.5px;
+    left: 220px;
+    text-decoration: none;
+    color: #58a6f9;
+}
+
+.descargaApp{
+    position: absolute;
+    width: 280px;
+    top: 115px;
+    left: 35px;
+}
+
+
+
+
+
+
